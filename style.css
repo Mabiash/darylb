@@ -210,7 +210,7 @@ header .hambergerMenu .fa-solid {
 main {
   height: auto;
   scroll-behavior: smooth;
-
+   overflow-x: hidden !important;
   margin: 0;
   padding: 0;
 }
